@@ -1,6 +1,0 @@
-app_name = "investment"
-app_title = "Investment"
-app_publisher = "ruxshona2103"
-app_description = "Investment Management App"
-app_email = "your_email@example.com"
-app_license = "MIT"
